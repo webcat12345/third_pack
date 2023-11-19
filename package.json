@@ -1,0 +1,25 @@
+{
+  "name": "third_pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://webcat12345: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@github.com/webcat12345/third_pack.git"
+  },
+  "author": "Liu Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcat12345/third_pack/issues"
+  },
+  "homepage": "https://github.com/webcat12345/third_pack#readme",
+  "dependencies": {
+    "@eyevinn/hls-duration": "^0.1.1",
+    "basic-ftp": "^5.0.3",
+    "get-video-duration": "^4.1.0",
+    "jsftp": "^2.1.3"
+  }
+}
